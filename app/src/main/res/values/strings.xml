@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="wb">Welcome back</string>
+    <string name="si">Sign in to continue</string>
+    <string name="un">Username</string>
+    <string name="eye">Enter your email</string>
+    <string name="pw">Password</string>
+    <string name="eyp">Enter your password</string>
+    <string name="fp">Forgot Password</string>
+    <string name="log">Log In</string>
+    <string name="pe">Please enter your email below to receive your password reset instruction</string>
+    <string name="sr">Send Request</string>
+    <string name="rp">Reset Password</string>
+    <string name="rc">Reset code was sent to your email. Please enter the code and create new password</string>
+    <string name="rn">Reset Code</string>
+    <string name="eyn">Enter your number</string>
+    <string name="np">New password</string>
+    <string name="cp">Confirm password</string>
+    <string name="eycp">Enter your confirm password</string>
+    <string name="bcp">Change Password</string>
+    <string name="s">Successful !</string>
+    <string name="scp">You have successfully changed password. Please use your new passwords when logging in</string>
+</resources>
